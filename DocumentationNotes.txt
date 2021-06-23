@@ -1,0 +1,8 @@
+
+This is document of the 2D Test game project.
+
+Journal:
+	6/22/2021
+	1.Add assert and add tilemap of of game.
+	2.Add movement of game.
+
